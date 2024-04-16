@@ -1,4 +1,4 @@
-#DevOps Project Setup
+# DevOps Project Setup
 
 This project demonstrates a full-fledged DevOps setup for a web application using the following technologies:
 
